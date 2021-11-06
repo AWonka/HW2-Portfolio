@@ -42,9 +42,10 @@ ul {
     align-items: center;
     margin-right: 30px;
     padding-top: 10px;
+    
 }
 
-a {
+.page-links {
     font-family: monospace;
     font-size: 2rem;
     margin-right: 30px;
@@ -86,6 +87,7 @@ a {
     padding: 10px;
     margin-left: 20%;
     margin-bottom: 40px;
+    margin-top: 20px;
     border-left: 2px solid orange;
 }
 
@@ -97,10 +99,18 @@ h2 {
 }
 
 .first-app {
-    width: 70%;
-    height: auto;
+    
     margin-bottom: 1px;
     border: 10px inset var(--willy);
+}
+
+.div-app {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-left: 35%;
+    border-left: 2px solid orange;
 }
 
 .applications {
@@ -120,6 +130,7 @@ h2 {
 }
 
 /* turn image orange when hover...tried, high contrast still funny */
+/* the button extends a little past the image, might be because of it being in its own div. Needed a div for image to stay on top, need to fix. */
 .first-app:hover,
 .other-app:hover {
     cursor: pointer;
@@ -146,6 +157,12 @@ footer {
     justify-content: center;
     padding: 30px;
 }
+
+.footer-list {
+    padding: 20px;
+}
+
+/* Need to add media screens, requesting TA to help me clean up this project and make it more responsive */
 
 
 
