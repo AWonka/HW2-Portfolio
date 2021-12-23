@@ -1,3 +1,7 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 header {
     background-color: indigo;
 }
@@ -26,6 +30,14 @@ header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.4rem;
     text-align: center;
+}
+
+.work-title {
+    text-align: center;
+    margin-top: 2rem;
+    background-color: indigo;
+    color: white;
+    font-size: 2rem;
 }
 
 .left-side {
