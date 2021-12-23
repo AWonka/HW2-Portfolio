@@ -40,6 +40,17 @@ header {
     font-size: 2rem;
 }
 
+.git-repo {
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.contact-info {
+    text-decoration: none;
+    font-size: 1.4rem;
+    padding: 0.5rem;
+}
+
 .left-side {
     border-right: 4px solid indigo;
     background-color: orange;
