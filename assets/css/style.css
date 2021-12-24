@@ -6,6 +6,15 @@ header {
     background-color: indigo;
 }
 
+h1 {
+    font-size: 2rem;
+    padding-top: 30px;
+}
+
+.headers {
+    font-size: 1.4rem;
+}
+
 .my-pic {
     width: 250px;
     height: auto;

@@ -2,10 +2,15 @@
 
 ## Description
 
-This is my portfolio that I will add applications that I build in the future to this portfolio. I also plan on improving this portfolio, clean up the code, and make it more responsive. Also in the future I want to improve the design and make it cleaner and more appealing.
+This is my current portfolio including a BIO, links to github repos, links to deployed applications, and contact information. 
 
 ## Usage
 
-Click on the links found in the top right to take you directly to the desired section. Click on the first image to be taken to a random project we have done in class.
+Click on the links found in the top right to take you directly to the desired section. Click on the first image to be taken to the Team Marvel vs DC working page.
 
-**Note:** The images are placeholders and the links to different projects will be added later as we complete more projects and I do them on the side.
+The next 2 images link to the deployed pages for code-quiz and day-scheduler apps.
+
+## Technologies Used
+
+I utilized bootstrap for the structuring of the page.
+Custom CSS for most of the design elements.
