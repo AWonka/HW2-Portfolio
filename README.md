@@ -1,5 +1,8 @@
 # HW2-Portfolio
 
+## Resume
+https://drive.google.com/file/d/1VvwM4Yg_S-Hy5_BDMVxfdfucUZuIdTUf/view?usp=sharing
+
 ## Description
 
 This is my current portfolio including a BIO, links to github repos, links to deployed applications, and contact information. 
